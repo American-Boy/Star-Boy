@@ -1,4 +1,3 @@
-
 class SuperHero:
     people = 'people'
 
